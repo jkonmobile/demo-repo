@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:33:54 -0500] "GET /exampleVSC HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:33:55 -0500] "GET /exampleVSC/ HTTP/1.1" 200 72 http-bio-8080-exec-3 1401
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:34:08 -0500] "GET /exampleVSC/ HTTP/1.1" 200 74 http-bio-8080-exec-4 83
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:38:31 -0500] "GET /exampleVSC/ HTTP/1.1" 200 74 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:38:35 -0500] "GET /exampleVSC/ HTTP/1.1" 200 74 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:39:10 -0500] "GET /exampleVSC/ HTTP/1.1" 200 80 http-bio-8080-exec-1 849
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:39:20 -0500] "GET /exampleVSC HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [28/Jun/2019:15:39:20 -0500] "GET /exampleVSC/ HTTP/1.1" 200 80 http-bio-8080-exec-4 5
